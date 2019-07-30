@@ -5,4 +5,4 @@ This code was taken from:
 # example from https://github.com/pytorch/examples/blob/master/vae/main.py
 # commented and type annotated by Charl Botha <cpbotha@vxlabs.com>
 
-#the section of transformation of one object into another through latent space added
+The section of transformation of one object into another through latent space added
